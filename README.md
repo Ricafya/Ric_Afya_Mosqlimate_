@@ -16,6 +16,7 @@ Submission of the **Afya** team for the **3rd InfoDengue–Mosqlimate Dengue Cha
   - Eduardo Moura — Research and Innovation Center, Afya, São Paulo, SP, Brazil
   - Angélica Caseri — Institute of Mathematical and Computer Sciences (ICMC), Universidade de São Paulo (USP), São Paulo, SP, Brazil
   - Julia Valentim — Research and Innovation Center, Afya, São Paulo, SP, Brazil
+  - Ronaldo Gismondi - Universidade Federal Fluminense (UFF), Niterói, RJ, Brazil & Research and Innovation Center, Afya, São Paulo, SP, Brazil
 
 ## 2. Repository Structure
 
